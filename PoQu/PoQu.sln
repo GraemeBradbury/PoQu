@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoQu", "PoQu.csproj", "{0F1D7616-7418-4162-8FE7-D0FAA4E85DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoQu.Tests", "..\PoQu.Tests\PoQu.Tests.csproj", "{2E182E6A-46F8-41A4-8493-C032AB4152D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1D7616-7418-4162-8FE7-D0FAA4E85DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1D7616-7418-4162-8FE7-D0FAA4E85DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1D7616-7418-4162-8FE7-D0FAA4E85DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1D7616-7418-4162-8FE7-D0FAA4E85DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E182E6A-46F8-41A4-8493-C032AB4152D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E182E6A-46F8-41A4-8493-C032AB4152D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E182E6A-46F8-41A4-8493-C032AB4152D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E182E6A-46F8-41A4-8493-C032AB4152D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
